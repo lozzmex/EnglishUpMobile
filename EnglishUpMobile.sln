@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishUpMobile", "EnglishUpMobile\EnglishUpMobile.csproj", "{CA868123-0445-4BCD-B5A3-D5879AD83F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA868123-0445-4BCD-B5A3-D5879AD83F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA868123-0445-4BCD-B5A3-D5879AD83F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA868123-0445-4BCD-B5A3-D5879AD83F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA868123-0445-4BCD-B5A3-D5879AD83F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32EB465A-8F22-42F2-AAF5-07CF80EAE4ED}
+	EndGlobalSection
+EndGlobal
